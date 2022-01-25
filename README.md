@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @vivekkute013
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Vivek Kute
+- 👀 I’m interested in Coding and to become a full stack developer.  
+- 🌱 I’m currently learning web development and machine learning.
+- 💞️ I’m looking to collaborate on ..
+- 📫 How to reach me on instagram @vivek.kute.9231.
 
 <!---
 vivekkute013/vivekkute013 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

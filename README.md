@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vivek Kute
-- 👀 I’m interested in Coding and to become a full stack developer.  
+- 👀 I’m interested in Coding and to become a AI/ML Developer.  
 - 🌱 I’m currently learning web development and machine learning.
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me on instagram @vivek.kute.9231.
